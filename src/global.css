@@ -1,0 +1,7 @@
+.ant-table-cell {
+    white-space: nowrap;
+}
+
+.ant-table-content {
+    overflow-x: scroll;
+}
