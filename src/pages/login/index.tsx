@@ -1,7 +1,15 @@
 import React from 'react';
 
 const Login = () => {
-  return <div>登录</div>;
+  return (
+    <div
+      onClick={() => {
+        console.log('登录成功');
+      }}
+    >
+      登录
+    </div>
+  );
 };
 
 export default Login;

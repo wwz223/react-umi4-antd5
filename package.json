@@ -23,6 +23,7 @@
     "ahooks": "^3.7.8",
     "antd": "^5.12.1",
     "dayjs": "^1.11.9",
+    "jotai": "^2.6.0",
     "tailwindcss": "^3.3.6"
   },
   "devDependencies": {

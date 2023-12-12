@@ -1,2 +1,2 @@
-export const DEFAULT_NAME = 'HeyLisa';
-export const DEFAULT_Title = 'Heylisa 运营平台';
+export const DEFAULT_NAME = 'Manage';
+export const DEFAULT_Title = '运营平台';

@@ -56,6 +56,12 @@ export default defineConfig({
       ]
     },
     {
+      name: 'Jotai',
+      path: '/jotai',
+      component: './jotai',
+    },
+
+    {
       name: ' CRUD 示例',
       path: '/table',
       component: './table',
